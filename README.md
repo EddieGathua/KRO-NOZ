@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KRO-NOZ
 - 👀 I’m interested in Website & Application Design and Development
 - 🌱 I’m currently learning SASS, Javascript, React and Node
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a lot of Javascript projects
 - 📫 How to reach me Email: eddygathua@gmail.com
 
 <!---
